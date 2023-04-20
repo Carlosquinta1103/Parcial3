@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nav_guardar"
+        android:icon="@drawable/baseline_save_24"
+        android:title="Guardar"
+        />
+    <item android:id="@+id/nav_editar"
+        android:icon="@drawable/baseline_edit_24"
+        android:title="Editar"
+        />
+    <item android:id="@+id/nav_eliminar"
+        android:icon="@drawable/baseline_delete"
+        android:title="Eliminar"
+        />
+</menu>
